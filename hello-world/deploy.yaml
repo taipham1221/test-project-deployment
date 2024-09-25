@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: test-project-containerrrrr
-          image: taipham1221/test-project:202409250251  
+          image: taipham1221/test-project:202409250304  
           ports:
             - containerPort: 8000  
 ---
